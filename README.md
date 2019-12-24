@@ -1,0 +1,2 @@
+# blog
+First ruby project.
